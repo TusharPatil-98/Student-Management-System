@@ -51,9 +51,4 @@ Feel free to customize this README further based on your specific project detail
 
 [![Learn more](https://img.shields.io/badge/Learn_more-blue)](https://haystack.deepset.ai/tutorials)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue)](https://www.linkedin.com/in/TusharPatil98/)
-
-: Haystack documentation: [link](https://docs.haystack.deepset.ai/docs/intro)
-: Hugging Face Transformers: [link](https://huggingface.co/transformers/)
-: MIT License: [link](https://opensource.org/licenses/MIT)
-: LinkedIn profile: [link](https://www.linkedin.com/in/TusharPatil98/)
-: My Portfolio: [link](https://tusharpatil-98.github.io/)
+[![LinkedIn](https://img.shields.io/badge/My_Portfolio-blue)](https://www.linkedin.com/in/TusharPatil98/)
