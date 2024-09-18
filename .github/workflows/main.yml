@@ -1,4 +1,4 @@
-name: ML Application test with Github Actions
+name: Student Management System Application test with Github Actions
 
 on: [push]
 
