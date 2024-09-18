@@ -43,9 +43,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - Thanks to the Haystack community for their excellent framework.
 - LLM model courtesy of Hugging Face Transformers.
-
-Feel free to customize this README further based on your specific project details. Good luck with your Student Management System! 🚀📚
-
 ---
 
 [![Learn more](https://img.shields.io/badge/Learn_more-blue)](https://haystack.deepset.ai/tutorials)
