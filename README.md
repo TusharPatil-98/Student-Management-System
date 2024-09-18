@@ -47,4 +47,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 [![Learn more](https://img.shields.io/badge/Learn_more-blue)](https://haystack.deepset.ai/tutorials)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue)](https://www.linkedin.com/in/TusharPatil98/)
-[![LinkedIn](https://img.shields.io/badge/My_Portfolio-blue)](https://www.linkedin.com/in/TusharPatil98/)
+[![LinkedIn](https://img.shields.io/badge/My_Portfolio-blue)](https://tusharpatil-98.github.io/)
