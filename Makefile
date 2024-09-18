@@ -3,4 +3,4 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python pytest --nbval notebook.ipynb
+	python -m pytest --nbval notebook.ipynb
