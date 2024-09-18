@@ -47,7 +47,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to customize this README further based on your specific project details. Good luck with your Student Management System! 🚀📚
 
 ---
-*Is there anything else you'd like to add or any specific sections you'd like me to include?* 😊
 
 [![Learn more](https://img.shields.io/badge/Learn_more-blue)](https://haystack.deepset.ai/tutorials)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue)](https://www.linkedin.com/in/TusharPatil98/)
